@@ -1,4 +1,4 @@
-# selective scaling
+# Selective Scaling
 Source code for selective scaling in the paper of ON CALIBRATING SEMANTIC SEGMENTATION MODELS: ANALYSIS AND AN ALGORITHM
 
 
