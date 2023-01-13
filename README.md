@@ -1,5 +1,5 @@
 # Selective Scaling
-Source code for selective scaling will be released soon. Before it is released, common questions could be discussed in the session of issues.
+Source code for selective scaling will be released soon. Before it is released, common questions could be discussed in the issues.
 
 ## Citation
 ```yaml
