@@ -1,4 +1,6 @@
-# On Calibrating Semantic Segmentation Models: Analyses and An Algorithm
+<head>
+    <title>On Calibrating Semantic Segmentation Models: Analyses and An Algorithm</title>
+</head> 
 <hr>
 
 Source code for selective scaling will be released soon. Before it is released, common questions could be discussed in the issues.
