@@ -1,5 +1,5 @@
 <head>
-    <title> On Calibrating Semantic Segmentation Models: Analyses and An Algorithm </title>
+   On Calibrating Semantic Segmentation Models: Analyses and An Algorithm 
 </head> 
 <hr>
 
