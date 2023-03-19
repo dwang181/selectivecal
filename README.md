@@ -1,4 +1,7 @@
-# Selective Scaling
+# On Calibrating Semantic Segmentation Models: Analyses and An Algorithm
+
+<hr>
+
 Source code for selective scaling will be released soon. Before it is released, common questions could be discussed in the issues.
 
 # Quick reference
@@ -15,7 +18,7 @@ The general setting: batch-size is 20 (i.e. 20 pixel-based probability vectors) 
 ## Citation
 ```yaml
 @article{wang2022calibrating,
-  title={On Calibrating Semantic Segmentation Models: Analysis and An Algorithm},
+  title={On Calibrating Semantic Segmentation Models: Analyses and An Algorithm},
   author={Wang, Dongdong and Gong, Boqing and Wang, Liqiang},
   journal={arXiv preprint arXiv:2212.12053},
   year={2022}
