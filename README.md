@@ -2,7 +2,7 @@
 # On Calibrating Semantic Segmentation Models: Analyses and An Algorithm (CVPR 2023)
 
 
-Source code for selective scaling will be released soon. Before it is released, common questions could be discussed in the issues.
+Source code for selective scaling undergoes ongoing updates. Before it is completely released, common questions could be discussed in the issues.
 
 # Quick reference
 
