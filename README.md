@@ -31,7 +31,7 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 [indomain]: https://github.com/dwang181/selectivecal/blob/main/Figures/InDomain.PNG
 
-# Out of Domain Experiments
+# Shift Domain Experiments
 ![alt text][outofdomain]
 
 [outofdomain]: https://github.com/dwang181/selectivecal/blob/main/Figures/OutOfDomain.PNG
