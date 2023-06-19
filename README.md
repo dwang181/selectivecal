@@ -1,8 +1,11 @@
 
 # On Calibrating Semantic Segmentation Models: Analyses and An Algorithm (CVPR 2023)
+[\[Paper\]](https://arxiv.org/pdf/2212.12053.pdf)
 
+We provide a systematic study on the calibration of semantic segmentation models and propose a simple yet effective approach. Source code is released for selective scaling. Common questions could be discussed in the issues.
 
-Source code for selective scaling undergoes ongoing updates. Before it is completely released, common questions could be discussed in the issues.
+# Miscalibration Obeservation for Semantic Segmentation Models 
+
 
 # Quick reference
 
