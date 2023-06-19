@@ -13,7 +13,7 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 1. Install [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/main/README.md) from OpenMMLab.
 
-# Benchmarks, Models and Calibrators
+# Benchmarks, Models, and Calibrators
 
 | Benchmarks        | Models          | Calibrators |
 | ------------- |:-------------:| :-----:|
