@@ -38,7 +38,7 @@ We provide a systematic study on the calibration of semantic segmentation models
 # Ablation Study
 ![alt text][ablationboundary]
 
-[ablationboundary]: https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.PNG
+[ablationboundary]: https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.png
 
 # Quick reference
 
