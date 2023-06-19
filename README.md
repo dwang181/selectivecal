@@ -38,8 +38,8 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 # Ablation Study
 <p align="center">
-<img src="https://github.com/dwang181/selectivecal/blob/main/Figures/CalibratorSensitivity.PNG" height="179">
-<img src="https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.png" width="245" height="179" />
+<img src="https://github.com/dwang181/selectivecal/blob/main/Figures/CalibratorSensitivity.PNG" height="269">
+<img src="https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.png" width="365" height="269" />
 </p>
 
 # Quick reference
