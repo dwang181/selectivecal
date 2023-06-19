@@ -6,7 +6,7 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 ![alt text][reliability]
 
-[reliability]: https://github.com/dwang181/selectivecal/blob/main/Figures/ReliabilityDiagrams.PNG
+[reliability]: https://github.com/dwang181/selectivecal/blob/main/Figures/ReliabilityDiagrams.png
 
 # Miscalibration Obeservation for Semantic Segmentation Models 
 ![alt text][miscalibration]
