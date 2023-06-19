@@ -36,8 +36,9 @@ We provide a systematic study on the calibration of semantic segmentation models
 [outofdomain]: https://github.com/dwang181/selectivecal/blob/main/Figures/OutOfDomain.PNG
 
 # Ablation Study
-
+<p align="center">
 <img src="https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.png" width="491" height="359" />
+</p>
 
 # Quick reference
 
