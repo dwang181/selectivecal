@@ -23,7 +23,8 @@ We provide a systematic study on the calibration of semantic segmentation models
 | DAVIS2016 | Knet-SWIN      | Local Temperature Scaling |
 | SPACENET-7 | ConvNeXt-V1      | Meta-Cal |
 | BraTs-2017 |      | Ensembling |
-| SYNTHIA |       
+| SYNTHIA |
+
 
 # In Domain Experiments
 ![alt text][indomain]
