@@ -35,6 +35,11 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 [outofdomain]: https://github.com/dwang181/selectivecal/blob/main/Figures/OutOfDomain.PNG
 
+# Ablation Study
+![alt text][ablationboundary]
+
+[ablationboundary]: https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.PNG
+
 # Quick reference
 
 The general implantation framework is as follows:
