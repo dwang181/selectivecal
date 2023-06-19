@@ -12,7 +12,20 @@ We provide a systematic study on the calibration of semantic segmentation models
 # Requirements
 
 1. Install [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/main/README.md) from OpenMMLab.
- 
+
+# Benchmarks and Models and Calibrators
+
+| Benchmarks        | Models          | Calibrators |
+| ------------- |:-------------:| :-----:|
+| ADE20K     | Segmenter |  Temperature Scaling|
+| COCO-164K      | SegFormer      |  Logistic Scaling |
+| BDD100K | Knet-DeepLab      | Dirichlet Scaling  |
+| DAVIS2016 | Knet-SWIN      | Local Temperature Scaling |
+| SPACENET-7 | ConvNeXt-V1      | Meta-Cal |
+| BraTs-2017 |      | Ensembling |
+| SYNTHIA |       
+
+
 
 # Quick reference
 
