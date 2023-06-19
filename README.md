@@ -4,6 +4,10 @@
 
 We provide a systematic study on the calibration of semantic segmentation models and propose a simple yet effective approach of selective scaling. Source code is released for selective scaling. Common questions could be discussed in the issues.
 
+![alt text][reliability]
+
+[reliability]: https://github.com/dwang181/selectivecal/blob/main/Figures/ReliabilityDiagrams.PNG
+
 # Miscalibration Obeservation for Semantic Segmentation Models 
 ![alt text][miscalibration]
 
