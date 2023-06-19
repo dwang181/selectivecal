@@ -9,6 +9,11 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 [miscalibration]: https://github.com/dwang181/selectivecal/blob/main/Figures/miscalibration.PNG
 
+# Requirements
+
+1. Install [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/main/README.md) from OpenMMLab.
+ 
+
 # Quick reference
 
 The general implantation framework is as follows:
