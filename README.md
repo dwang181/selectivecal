@@ -25,7 +25,10 @@ We provide a systematic study on the calibration of semantic segmentation models
 | BraTs-2017 |      | Ensembling |
 | SYNTHIA |       
 
+# In Domain Experiments
+![alt text][indomain]
 
+[indomain]: https://github.com/dwang181/selectivecal/blob/main/Figures/InDomain.PNG
 
 # Quick reference
 
