@@ -15,7 +15,8 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 # Requirements
 
-1. Install [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/main/README.md) from OpenMMLab.
+1. Install Python 3.8 + Pytorch 1.11
+2. Install [MMSegmentation](https://github.com/open-mmlab/mmsegmentation/blob/main/README.md) 0.25.0 from OpenMMLab. The support modules like mmdet 2.25.0 and mmcv-full 1.5.2 may be needed. 
 
 # Benchmarks, Models, and Calibrators
 
