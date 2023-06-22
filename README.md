@@ -41,12 +41,14 @@ We provide a systematic study on the calibration of semantic segmentation models
 [outofdomain]: https://github.com/dwang181/selectivecal/blob/main/Figures/OutOfDomain.PNG
 
 # Ablation Study
+
+We conducted ablation study by varying misprediction detection accuracy, integrating with different existing calibrators, and examining calibration errors.
 <p align="center">
 <img src="https://github.com/dwang181/selectivecal/blob/main/Figures/CalibratorSensitivity.PNG" height="269">
 <img src="https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.png" width="365" height="269" />
 </p>
 
-# Quick reference
+# Reference for Quick Implementation
 
 The general implantation framework is as follows:
 1.	Group validation images into calibrator training/validation/testing sets.
