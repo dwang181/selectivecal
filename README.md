@@ -43,7 +43,7 @@ We provide a systematic study on the calibration of semantic segmentation models
 
 # Ablation Study
 
-We conducted ablation study by varying misprediction detection accuracy, integrating with different existing calibrators, and examining calibration errors.
+We conducted ablation study by varying misprediction detection accuracy, integrating with different existing calibrators, and examining calibration errors across regions.
 <p align="center">
 <img src="https://github.com/dwang181/selectivecal/blob/main/Figures/CalibratorSensitivity.PNG" height="269">
 <img src="https://github.com/dwang181/selectivecal/blob/main/Figures/AblationBoundary.png" width="365" height="269" />
